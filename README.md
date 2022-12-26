@@ -1,2 +1,2 @@
 # portfolio
-This is a personal portfolio that explains things about me.
+This is a portfolio to demonstrate my achievements and projects that I have created and worked on.
