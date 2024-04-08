@@ -1,2 +1,2 @@
 # Portfolio
-This is a portfolio to demonstrate my achievements and projects that I have created and worked on.
+This is a portfolio to demonstrate my projects and accomplishments.
