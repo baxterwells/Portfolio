@@ -11,7 +11,7 @@ All dynamic elements in the game are randomly generated, so every time you load 
 - GLSL shader writing (used for blending colors in the sky and viewing through leaves, tall grass, and flowers)
 - Animal behaviors modeled from observing their real-life counterparts
 
-https://misnomer2.itch.io/a-forest-scene
+Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playable in-browser!)*
 
 ## Plundered & Going Under
 
@@ -19,4 +19,4 @@ https://misnomer2.itch.io/a-forest-scene
 
 *You've just plundered some booty from a nearby treasure trove, and you're trying to get back to the mainland -- but your boat starts to spring leaks! Choose between tossing some of your treasure overboard to sink slower or take time to repair your ship. How much treasure can you reach the mainland with, if any at all?*
 
-https://misnomer2.itch.io/plundered-and-going-under
+Link to play [Plundered & Going Under](https://misnomer2.itch.io/plundered-and-going-under) *(playable in-browser!)*
