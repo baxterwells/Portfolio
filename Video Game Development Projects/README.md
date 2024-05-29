@@ -15,6 +15,8 @@ All dynamic elements in the game are randomly generated, so every time you load 
 
 Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playable in-browser!)*
 
+![A Forest Scene splash picture.](/Assets/AForestSceneMain.png "A Forest Scene")
+
 ## Plundered & Going Under
 
 *Plundered & Going Under* was made in 3 hours for Trijam #195 using GameMaker Studio 2.
