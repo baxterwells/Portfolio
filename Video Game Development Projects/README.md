@@ -1,5 +1,7 @@
 # Independent Video Game Development
 
+This folder hosts HTML executables for the independent video game projects that I have completed. *Use the links below to play the games in-browser for free.*
+
 ## A Forest Scene
 
 *A Forest Scene* is a passive, procedurally-generated simulation built from the ground-up in the GameMaker Studio 2 game engine.
