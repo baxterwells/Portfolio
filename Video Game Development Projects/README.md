@@ -1,8 +1,11 @@
 # Independent Video Game Development
 
-This folder hosts HTML executables for the independent video game projects that I have completed. *Use the links below to play the games in-browser for free.*
+This folder hosts HTML executables for the independent video game projects that I have completed.
+</br>*Use the links below to play the games in-browser for free.*
 
 ## A Forest Scene
+
+[![A Forest Scene splash picture.](Assets/AForestSceneMain.png "Click to play 'A Forest Scene'")](https://misnomer2.itch.io/a-forest-scene)
 
 *A Forest Scene* is a passive, procedurally-generated simulation built from the ground-up in the GameMaker Studio 2 game engine.
 
@@ -14,8 +17,6 @@ All dynamic elements in the game are randomly generated, so every time you load 
 - Animal behaviors modeled from observing their real-life counterparts
 
 Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playable in-browser!)*
-
-[![A Forest Scene splash picture.](Assets/AForestSceneMain.png "A Forest Scene")](https://misnomer2.itch.io/a-forest-scene)
 
 ## Plundered & Going Under
 
