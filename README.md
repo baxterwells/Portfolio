@@ -1,12 +1,12 @@
 # Portfolio
 
-My portfolio demonstrates projects that I have worked on, and can be found related to my following areas of expertise:
+This portfolio demonstrates my projects, associated with each of my following areas of expertise:
 
 - Business Analyst
 - Software Engineering
 - Independent Video Game Development
 
-For an overview of myself, first check out the *"Baxter Wells - Summary"* folder.
+For an overview of myself, first check out the ***"Baxter Wells - Summary"*** folder.
 
 ## About Me
 
