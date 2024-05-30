@@ -7,12 +7,13 @@ This folder hosts HTML executables for the independent video game projects that 
 
 [![A Forest Scene splash picture.](Assets/AForestSceneMain.png "Click to play 'A Forest Scene'")](https://misnomer2.itch.io/a-forest-scene)
 
-***A Forest Scene*** is a passive, procedurally-generated simulation built from the ground-up in the GameMaker Studio 2 game engine.
+***A Forest Scene*** is a passive, procedurally-generated simulation built from the ground-up and drawn by hand using the GameMaker Studio 2 game engine.
 
 All dynamic elements in the game are randomly generated, so every time you load the game, the scene will always be different. The weather patterns, locations of grass and flowers, and all animal behaviors are unique every time the game is played. Trees are grown using procedural generation. Some notable technologies that I have implemented in this game include the following:
 
 - A completely self-sustaining weather system
-- Procedurally-generated trees, written by hand
+- Procedurally-generated trees, coded by hand
+- Everything has been drawn by hand
 - GLSL shader writing (used for blending colors in the sky and viewing through leaves, tall grass, and flowers)
 - Animal behaviors modeled from observing their real-life counterparts
 
