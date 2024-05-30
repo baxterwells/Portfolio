@@ -1,4 +1,4 @@
-# Portfolio
+# Baxter's Portfolio
 
 This portfolio demonstrates my projects, associated with each of my following areas of expertise:
 
@@ -6,7 +6,7 @@ This portfolio demonstrates my projects, associated with each of my following ar
 - Software Engineering
 - Independent Video Game Development
 
-For an overview of myself, first check out the ***"Baxter Wells - Summary"*** folder.
+You can find an overview about me and my accomplishments in the ***"Baxter Wells - Summary"*** folder.
 
 ## About Me
 
