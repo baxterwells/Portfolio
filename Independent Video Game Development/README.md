@@ -26,3 +26,17 @@ Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playab
 *You've just plundered some booty from a nearby treasure trove, and you're trying to get back to the mainland -- but your boat starts to spring leaks! Choose between tossing some of your treasure overboard to sink slower or take time to repair your ship. How much treasure can you reach the mainland with, if any at all?*
 
 Link to play [Plundered & Going Under](https://misnomer2.itch.io/plundered-and-going-under) *(playable in-browser!)*
+
+## Procedural Content Studies
+I have taken Direct studies into the use of procedural content in video games -- such as the terrain generation in Minecraft! Below are some examples of the results of these studies.
+
+### Terrain Generation
+![An image demonstrating procedural terrain generation, with a flag on the peak of a snowcapped mountain.](<Assets/Procedural Content Studies/Photos/TerrainGen1.png>)
+
+### Morphing 3-Dimensional Objects
+![An image demonstrating the morphing of 3-dimensional objects, with 5 foxes of different colors and poses.](<Assets/Procedural Content Studies/Photos/BezierCurveFox4.png>)
+
+
+
+
+
