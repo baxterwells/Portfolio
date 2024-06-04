@@ -2,8 +2,7 @@
 
 # Independent Video Game Development
 
-This folder hosts HTML executables for the independent video game projects that I have completed.
-</br>*Use the links below to play the games in-browser **for free**!*
+This folder contains my Independent Video Game Development projects. Use the links below to play my finished games in-browser **for free**!
 
 ## A Forest Scene - [Play Here](https://misnomer2.itch.io/a-forest-scene)
 
