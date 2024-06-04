@@ -15,3 +15,7 @@ Hello, my name is Baxter Wells. I am a Georgia Institute of Technology graduate 
 I am a servant leader. With empathy and enthusiasm at the forefront of my mind, I consider each personal interaction as an opportunity to listen and to learn. My attention to detail complements my bias for action, powering high-quality, meaningful results.
 
 I am fascinated with computer programming and game development. I have extensive experience with a wide variety of programming languages and programming methods, including the following: Java, Python, C, C++, Git, machine learning, Power BI (data visualization), Microsoft's ASP.NET Core framework, and game engines including Unity, Godot, and GameMaker Studio 2.
+
+## My Resume
+
+![A glance at Baxter Wells's resume.](<Independent Game Development Projects/Assets/Resume/Resume - Baxter Wells.png>)
