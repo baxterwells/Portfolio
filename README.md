@@ -1,4 +1,6 @@
-# Baxter's Portfolio
+# Baxter Wells
+
+## My Portfolio
 
 This portfolio demonstrates my projects, associated with each of my following areas of expertise:
 
