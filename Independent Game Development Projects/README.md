@@ -5,7 +5,7 @@ This folder hosts HTML executables for the independent video game projects that 
 
 ## A Forest Scene - [Play Here](https://misnomer2.itch.io/a-forest-scene)
 
-[![A Forest Scene splash picture.](Assets/AForestSceneDay2.png "Click to play 'A Forest Scene'")](https://misnomer2.itch.io/a-forest-scene)
+[![A Forest Scene splash picture.](<Assets/A Forest Scene/AForestSceneDay2.png> "Click to play 'A Forest Scene'")](https://misnomer2.itch.io/a-forest-scene)
 
 ***A Forest Scene*** is a passive, procedurally-generated simulation built from the ground-up and drawn by hand using the GameMaker Studio 2 game engine.
 
