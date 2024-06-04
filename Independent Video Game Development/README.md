@@ -36,8 +36,13 @@ I have taken Direct studies into the use of procedural content in video games --
 ### Flocking Behavior
 ![An image demonstrating flocking behavior, with a sky full of paper origami cranes and a pond underneath with koi fish.](<Assets/Procedural Content Studies/Photos/FlockBehavior1.png>)
 
+![A gif demonstrating flocking behavior, with a sky full of paper origami cranes and a pond underneath with koi fish.](<Assets/Procedural Content Studies/Gifs/FlockBehavior2.gif>)
+
 ### Procedural Tree Growth
 ![An image demonstrating procedural tree growth, with three different trees of varying growth types.](<Assets/Procedural Content Studies/Photos/ProcedTree4.png>)
 
 ### Morphing 3-Dimensional Objects
-![An image demonstrating the morphing of 3-dimensional objects, with six foxes of different colors and poses.](<Assets/Procedural Content Studies/Photos/BezierCurveFox4.png>)
+![An image demonstrating the morphing of three-dimensional objects, with six foxes of different colors and poses.](<Assets/Procedural Content Studies/Photos/BezierCurveFox4.png>)
+
+![A gif demonstrating the morphing of three-dimensional objects, with six foxes of different colors and poses.](<Assets/Procedural Content Studies/Gifs/BezierCurveFox1.gif>)
+
