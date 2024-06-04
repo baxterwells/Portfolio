@@ -21,8 +21,6 @@ Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playab
 
 ## Plundered & Going Under - [Play Here](https://misnomer2.itch.io/plundered-and-going-under) (Game Jam Submission)
 
-[![*Plundered and Going Under* splash image.](<Assets/PaGU/PaGUGameplay.png> "Click to play 'Plundered and Going Under!'")](https://misnomer2.itch.io/plundered-and-going-under)
-
 ***Plundered & Going Under*** was made in 3 hours for Trijam #195 using GameMaker Studio 2.
 
 *You've just plundered some booty from a nearby treasure trove, and you're trying to get back to the mainland -- but your boat starts to spring leaks! Choose between tossing some of your treasure overboard to sink slower or take time to repair your ship. How much treasure can you reach the mainland with, if any at all?*
