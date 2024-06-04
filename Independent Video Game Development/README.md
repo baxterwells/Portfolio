@@ -28,6 +28,8 @@ Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playab
 
 Link to play [Plundered & Going Under](https://misnomer2.itch.io/plundered-and-going-under) *(playable in-browser!)*
 
+---
+
 # Procedural Content Studies
 I have taken direct studies into the use of procedural content in video games (like the terrain generation found in Minecraft). Below are some examples of the results of these studies.
 
