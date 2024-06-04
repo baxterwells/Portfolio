@@ -6,7 +6,7 @@ This portfolio demonstrates my projects, associated with each of my following ar
 - Software Engineering
 - Independent Video Game Development
 
-You can find an overview about me and my accomplishments in the ***"Baxter Wells - Summary"*** folder.
+You can find an overview about me and my accomplishments in the ***"About Me"*** folder above.
 
 ## About Me
 
