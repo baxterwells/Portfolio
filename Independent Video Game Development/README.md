@@ -1,3 +1,5 @@
+![A gif of A Forest Scene in action where a bird flies away and a red fox pounces.](<Assets/A Forest Scene/AForestSceneBanner4T.gif>)
+
 # Independent Video Game Development
 
 This folder hosts HTML executables for the independent video game projects that I have completed.
