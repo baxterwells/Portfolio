@@ -5,7 +5,7 @@ This folder hosts HTML executables for the independent video game projects that 
 
 ## A Forest Scene - [Play Here](https://misnomer2.itch.io/a-forest-scene)
 
-[![A Forest Scene splash picture.](<Assets/A Forest Scene/AForestSceneDay2.png> "Click to play 'A Forest Scene'")](https://misnomer2.itch.io/a-forest-scene)
+[![*A Forest Scene* splash image.](<Assets/A Forest Scene/AForestSceneDay2.png> "Click to play *A Forest Scene*!")](https://misnomer2.itch.io/a-forest-scene)
 
 ***A Forest Scene*** is a passive, procedurally-generated simulation built from the ground-up and drawn by hand using the GameMaker Studio 2 game engine.
 
@@ -20,6 +20,8 @@ All dynamic elements in the game are randomly generated, so every time you load 
 Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playable in-browser!)*
 
 ## Plundered & Going Under - [Play Here](https://misnomer2.itch.io/plundered-and-going-under) (Game Jam Submission)
+
+[![*Plundered and Going Under* splash image.](<Assets/PaGU/PaGUGameplay.png> "Click to play *Plundered and Going Under*!")](https://misnomer2.itch.io/plundered-and-going-under)
 
 ***Plundered & Going Under*** was made in 3 hours for Trijam #195 using GameMaker Studio 2.
 
