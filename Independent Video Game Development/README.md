@@ -28,15 +28,17 @@ Link to play [A Forest Scene](https://misnomer2.itch.io/a-forest-scene) *(playab
 Link to play [Plundered & Going Under](https://misnomer2.itch.io/plundered-and-going-under) *(playable in-browser!)*
 
 ## Procedural Content Studies
-I have taken Direct studies into the use of procedural content in video games -- such as the terrain generation in Minecraft! Below are some examples of the results of these studies.
+I have taken direct studies into the use of procedural content in video games -- such as the terrain generation in Minecraft! Below are some examples of the results of these studies.
 
 ### Terrain Generation
 ![An image demonstrating procedural terrain generation, with a flag on the peak of a snowcapped mountain.](<Assets/Procedural Content Studies/Photos/TerrainGen1.png>)
 
+![A gif demonstrating live procedural terrain generation.](<Assets/Procedural Content Studies/Gifs/TerrainGen1T.gif>)
+
 ### Flocking Behavior
 ![An image demonstrating flocking behavior, with a sky full of paper origami cranes and a pond underneath with koi fish.](<Assets/Procedural Content Studies/Photos/FlockBehavior1.png>)
 
-![A gif demonstrating flocking behavior, with a sky full of paper origami cranes and a pond underneath with koi fish.](<Assets/Procedural Content Studies/Gifs/FlockBehavior2.gif>)
+![A gif demonstrating flocking behavior, with a sky full of paper origami cranes and a pond underneath with koi fish.](<Assets/Procedural Content Studies/Gifs/FlockBehavior2T.gif>)
 
 ### Procedural Tree Growth
 ![An image demonstrating procedural tree growth, with three different trees of varying growth types.](<Assets/Procedural Content Studies/Photos/ProcedTree4.png>)
