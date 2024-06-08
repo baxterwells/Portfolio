@@ -2,7 +2,7 @@
 
 ## My Portfolio
 
-This portfolio demonstrates my projects, associated with each of my following areas of expertise:
+This portfolio demonstrates my projects and accomplishments, associated with each of my following areas of expertise:
 
 - Business Analyst
 - Software Engineering
