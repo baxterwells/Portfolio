@@ -20,4 +20,4 @@ I am fascinated with computer programming and game development. I have extensive
 
 ## My Resume
 
-![A glance at Baxter Wells's resume.](<Independent Video Game Development/Assets/Resume/Resume - Baxter Wells.png>)
+![A glance at Baxter Wells's resume.](<Independent Video Game Development/Assets/Resume/Resume - Baxter Wells.ng>)
