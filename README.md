@@ -12,11 +12,9 @@ You can find an overview about me and my accomplishments in the ***"About Me"***
 
 ## About Me
 
-Hello, my name is Baxter Wells. I am a Georgia Institute of Technology graduate with a Bachelor's degree in Computer Science with concentrations in Media Technology and Psychology.
+Passionate about the intersection of human empathy and cutting-edge technology, Baxter Wells is a Computer Science graduate from Georgia Tech specializing in Media Technology and Psychology. As a Specialist at the Tennessee Valley Authority, he brings a servant leadership philosophy to every project, believing that the best results come from listening, connecting, and empowering others.
 
-I am a servant leader. With empathy and enthusiasm at the forefront of my mind, I consider each personal interaction as an opportunity to listen and to learn. My attention to detail complements my bias for action, powering high-quality, meaningful results.
-
-I am fascinated with computer programming and game development. I have extensive experience with a wide variety of programming languages and programming methods, including the following: Java, Python, C, C++, Git, machine learning, Power BI (data visualization), Microsoft's ASP.NET Core framework, and game engines including Unity, Godot, and GameMaker Studio 2.
+His technical expertise centers on driving actionable insights using Dataiku DSS and Microsoft Power BI. Baxter possesses advanced literacy in multiple computer programming languages, which allows him to build robust solutions and explore his fascination with generative AI and video game development. He leverages AI daily to enhance his workflows, always ensuring a crucial human-in-the-loop approach to maintain quality and meaning in his work.
 
 ## My Resume
 
