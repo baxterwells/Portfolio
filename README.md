@@ -6,9 +6,9 @@ This portfolio demonstrates my projects and accomplishments with each of my foll
 
 - Agentic AI
   - Click [here](https://github.com/baxterwells/BaxBot) to go to my **BaxBot** repository.
-- Business Analysis
 - Software Engineering
 - Independent Video Game Development
+- Business Analysis
 
 Learn more about me and my accomplishments in the ***"About Me"*** folder above.
 
