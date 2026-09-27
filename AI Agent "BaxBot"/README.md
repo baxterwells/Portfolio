@@ -1,6 +1,6 @@
 # BaxBot
 
-Click [here](https://github.com/baxterwells/BaxBot) to go to **BaxBot**
+Click [here](https://github.com/baxterwells/BaxBot) to go to my **BaxBot** repository.
 
 ## Overview
 **BaxBot** is a personalized assistant that helps me with tasks. It uses my tone of voice and personality via RAG. **BaxBot** has been developed with the following architectural patterns:
