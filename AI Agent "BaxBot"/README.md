@@ -4,7 +4,7 @@ Click [here](https://github.com/baxterwells/BaxBot) to go to my **BaxBot** repos
 
 ## Overview
 **BaxBot** is a personalized assistant that helps me with tasks. It uses my tone of voice and personality via RAG. **BaxBot** has been developed with the following architectural patterns:
-- ReAct Framework
+- ReAct Architecture
 - Multi-Modal Orchestration
 - Dual-Layer Memory Architecture
 - Custom and Modular Tool-Calling Protocol
