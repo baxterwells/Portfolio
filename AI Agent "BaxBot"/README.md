@@ -11,7 +11,7 @@ Click [here](https://github.com/baxterwells/BaxBot) to go to **BaxBot**
 - Retrieval-Augmented Generation (RAG)
 - Semantic Context Injection
 
-## Tools BaxBot Can Use
+## BaxBot's Tools
 The following are tools that **BaxBot** is able to independently and modularly call:
 - Photo Sorter: Analyze images with *llava* and detect user-specified objects (people, pets, etc.), saving copies to a new directory, separated by object.
 - System Stats: Provide the statistics of the current state of the local computer.
