@@ -1,21 +1,18 @@
-# Baxter Wells
+# BaxBot
 
-## My Portfolio
+Click [here](https://github.com/baxterwells/BaxBot) to go to my **BaxBot** repository.
 
-This portfolio demonstrates my projects and accomplishments with each of my following roles of expertise:
+## Overview
+**BaxBot** is a personalized assistant that helps me with tasks. It uses my tone of voice and personality via RAG. **BaxBot** has been developed with the following architectural patterns:
+- ReAct Architecture
+- Multi-Modal Orchestration
+- Dual-Layer Memory Architecture
+- Custom and Modular Tool-Calling Protocol
+- Retrieval-Augmented Generation (RAG)
+- Semantic Context Injection
 
-- Business Analyst
-- Software Engineering
-- Independent Video Game Development
-
-You can find an overview about me and my accomplishments in the ***"About Me"*** folder above.
-
-## About Me
-
-Passionate about the intersection of human empathy and cutting-edge technology, Baxter Wells is a Computer Science graduate from Georgia Tech specializing in Media Technology and Psychology. As a Specialist at the Tennessee Valley Authority, he brings a servant leadership philosophy to every project, believing that the best results come from listening, connecting, and empowering others.
-
-His technical expertise centers on driving actionable insights using Dataiku DSS and Microsoft Power BI. Baxter possesses advanced literacy in multiple computer programming languages, which allows him to build robust solutions and explore his fascination with generative AI and video game development. He leverages AI daily to enhance his workflows, always ensuring a crucial human-in-the-loop approach to maintain quality and meaning in his work.
-
-## My Resume
-
-![A glance at Baxter Wells's resume.](<Independent Video Game Development/Assets/Resume/Resume - Baxter Wells.jpg>)
+## BaxBot's Tools
+The following are tools that **BaxBot** can independently and modularly call based on inferring the user's intent:
+- **Photo Sorter**: Analyze images with *llava* and detect user-specified objects (people, pets, etc.), saving copies to a new directory, separated by object.
+- **System Stats**: Provide the statistics of the current state of the local computer.
+- **Memory Manager**: Save and refine both short- and long-term memory via *ChromaDB* upserting.
