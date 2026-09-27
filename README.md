@@ -4,7 +4,8 @@
 
 This portfolio demonstrates my projects and accomplishments with each of my following roles of expertise:
 
-- Business Analyst
+- Agentic AI
+- Business Analysis
 - Software Engineering
 - Independent Video Game Development
 
