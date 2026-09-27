@@ -1,8 +1,6 @@
-# Baxter Wells
+# BaxBot
 
-## BaxBot
-
-Click to go to BaxBot[]
+Click [here](https://github.com/baxterwells/BaxBot) to go to **BaxBot**
 
 BaxBot is a personalized assistant that helps me with tasks. It uses my tone of voice and personality via RAG. BaxBot has been developed with the following architectural patterns:
 - ReAct Framework
